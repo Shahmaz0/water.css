@@ -74,7 +74,7 @@ Simply remove the `.min` from the file name.
 
 ## Theming
 
-Do you want to make some adjustments or build your own theme completely different from the official dark or light themes? Since Water.css is built with CSS variables this is super easy to do! Here's a list list of all the variables you can change to your liking:
+Do you want to make some adjustments or build your own theme completely different from the official dark or light themes? Since Water.css is built with CSS variables this is super easy to do! Here's a list of all the variables you can change to the way you like:
 
 - `--background-body`
 - `--background`
